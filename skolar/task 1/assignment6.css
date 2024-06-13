@@ -1,0 +1,29 @@
+header {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav a {
+    text-decoration: none;
+    padding: 5px 10px;
+  }
+  main {
+    margin-top: 20px;
+    display: flex;
+  }
+  title{
+    flex: 2;
+  }
+   rela{
+    flex: 1;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+  }
